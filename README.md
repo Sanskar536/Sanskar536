@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sanskar536&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-![](https://nirzak-streak-stats.vercel.app/?user=Underwaterbet023&theme=ambient_gradient&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Sanskar536&theme=ambient_gradient&hide_border=false)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanskar536&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
